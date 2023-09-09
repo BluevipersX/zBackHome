@@ -1,0 +1,6 @@
+name: zBackHome
+version: '${project.version}'
+main: net.monsterhit.zbackhome.ZBackHome
+api-version: '1.17'
+depend:
+  - HuskHomes
