@@ -1,8 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-/target/*
-/.idea/*
+./target/*
+./.idea/*
 pom.xml
 zBackHome.iml
 ```

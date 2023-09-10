@@ -1,6 +1,6 @@
 # Project exclude paths
-/target/*
-/.idea/*
+target/*
+.idea/*
 pom.xml
 zBackHome.iml
 ```
